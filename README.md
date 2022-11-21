@@ -4,7 +4,7 @@ Recent observations of oscillatory characteristics in the optical response of ph
 taneous creation and maintenance of electronic coherence. Specically through the presence of discrete modes which are resonant with the energy dierence between excitons. Numerical simulations of systems with 1 and 2 modes will be carried out, and one of the modes of each system will be varied to observe the behavior of quantum coherence.
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
 
 ### Prerequisites
 
