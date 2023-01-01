@@ -1,7 +1,7 @@
 
 # The influence of resonant and non-resonant modes in the exciton dynamics
-Recent observations of oscillatory characteristics in the optical response of photosynthetic complexes have revealed evidence of surprisingly long-lasting electronic coherences that can coexist with energy transport. These observations have sparked multidisciplinary interest in the role of quantum effects in biological systems, including the fundamental question of how electronic coherence can survive in biological environments. In this Master Thesis we show that the non-trivial spectral structures of protein uctuations can generate disequilibrium processes that lead to the spon-
-taneous creation and maintenance of electronic coherence. Specically through the presence of discrete modes which are resonant with the energy dierence between excitons. Numerical simulations of systems with 1 and 2 modes will be carried out, and one of the modes of each system will be varied to observe the behavior of quantum coherence.
+Recent observations of oscillatory characteristics in the optical response of photosynthetic complexes have revealed evidence of surprisingly long-lasting electronic coherences that can coexist with energy transport. These observations have sparked multidisciplinary interest in the role of quantum effects in biological systems, including the fundamental question of how electronic coherence can survive in biological environments. In this Master Thesis we show that the non-trivial spectral structures of protein fluctuations can generate disequilibrium processes that lead to the spon
+taneous creation and maintenance of electronic coherence. Specifically through the presence of discrete modes which are resonant with the energy difference between excitons. Numerical simulations of systems with 1 and 2 modes will be carried out, and one of the modes of each system will be varied to observe the behavior of quantum coherence.
 ## Getting Started
 
 
