@@ -27,4 +27,4 @@ https://drive.google.com/file/d/1pHEz_Am6flZmS10WE3uNkLHpT1h-3ttk/view
 
 ## Authors
 
-* **Jose Luis Cordoba Cabanillas** -  [p3p31v](https://github.com/p3p31v)
+* **Jose Luis Cordoba Cabanillas** -  [Jose](https://github.com/p3p31v)
